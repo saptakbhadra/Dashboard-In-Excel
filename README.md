@@ -1,13 +1,13 @@
 # Dashboard-In-Excel
 This is an interactive dashboard created through Excel.
 ## Screen 1
-![](Images/Excel Dashboard.jpg)
+<img src="https://github.com/saptakbhadra/Dashboard-In-Excel/blob/main/Images/Excel%20Dashboard.jpg" alt=".." title="Screen1"/>
 
 ## Screen 2
-![](Images/Excel Dashboard 2.jpg)
+<img src="https://github.com/saptakbhadra/Dashboard-In-Excel/blob/main/Images/Excel%20Dashboard%202.jpg" alt=".." title="Screen2"/>
 
 ## Screen 3
-![](Images/Excel Dashboard 3.jpg)
+<img src="https://github.com/saptakbhadra/Dashboard-In-Excel/blob/main/Images/Excel%20Dashboard%203.jpg" alt=".." title="Screen3"/>
 
 
 
